@@ -1,0 +1,10 @@
+{
+  "name": "knightbot-vercel-session-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel-native KnightBot session generator using a streamed pairing request.",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "pino": "^9.0.0"
+  }
+}
